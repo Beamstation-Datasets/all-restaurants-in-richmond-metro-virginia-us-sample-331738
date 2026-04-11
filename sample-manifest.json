@@ -1,0 +1,12 @@
+{
+  "export_job_id": "ddff6b8d-37ab-4de5-aba7-4b6597956eb2",
+  "id_short": 331738,
+  "published_at": "2026-04-11T07:30:03Z",
+  "repo_name": "all-restaurants-in-richmond-metro-virginia-us-sample-331738",
+  "sample_asset_name": "beamstation_331738_restaurants-us-richmondva_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/331738/beamstation_331738_restaurants-us-richmondva_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "ca6592596364bd4ff080b533cb759cd948d0a51b05ef23db370c05d7500990b6",
+  "sample_size_bytes": 114913,
+  "total_records": 2354
+}
